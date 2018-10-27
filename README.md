@@ -1,6 +1,7 @@
-# metamask-auth
 
-This is an example of authorization using metamask plugin [Live Demo here](http://metamask-auth.ppuaia.usermd.net/)
+## metamask-authorization-login
+
+This is an example of authorization using metamask plugin [Live Demo here](https://motley-uart.glitch.me/)
 
 Source: https://medium.com/metamask/scaling-web3-with-signtypeddata-91d6efc8b290
 
