@@ -1,8 +1,8 @@
 var ethUtil = require('ethereumjs-util')
 var sigUtil = require('eth-sig-util')
 
-const CHALLENGE_DESCRIPTION = "Authorization challenge"
-const CHALLENGE_VALUE = "from getline"
+const CHALLENGE_DESCRIPTION = "Authorization for Authentication challenge"
+const CHALLENGE_VALUE = "Am I Signing this Message Intended to provide some level of Authorization for Authentication to access an AMIS Dapp ?"
 
 const msgParams = [{
   type: 'string',

@@ -1,9 +1,9 @@
 {
-  "name": "metamask-auth",
+  "name": "amis-metamask-auth",
   "version": "1.0.1",
-  "description": "Dapp AAA using Metamask",
+  "description": "AMIS Metamask Sign-in",
   "main": "index.js",
-  "author": "ami-solution",
+  "author": "amisolution",
   "license": "MIT",
   "dependencies": {
     "cookies-js": "^1.2.3",

@@ -7,7 +7,7 @@ coverage
 
 # production
 #build
-#build_webpack
+build_webpack
 
 # misc
 .DS_Store
