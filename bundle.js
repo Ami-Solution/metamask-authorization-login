@@ -11856,8 +11856,8 @@ module.exports = {
 var ethUtil = __webpack_require__(16)
 var sigUtil = __webpack_require__(105)
 
-const CHALLENGE_DESCRIPTION = "Authorization challenge"
-const CHALLENGE_VALUE = "from getline"
+const CHALLENGE_DESCRIPTION = "Authorization for Authentication challenge"
+const CHALLENGE_VALUE = "Am I Signing this Message Intended to provide some level of Authorization for Authentication to access an AMIS Dapp ?"
 
 const msgParams = [{
   type: 'string',

@@ -13,8 +13,8 @@
     "webpack-dev-server": "^2.9.4"
   },
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --public motley-quart.glitch.me:8080",
-    "start1": "webpack --progress --colors"
+    "dev": "webpack-dev-server --progress --colors --public motley-quart.glitch.me:8080",
+    "start": "webpack --progress --colors"
     
   }
 }
